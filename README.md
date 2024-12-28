@@ -5,7 +5,8 @@ This repository provides a structured exploration of statistical analysis concep
 ## Table of Contents
 
 ### 1. [Central Tendency Measures](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Life%20Expectancy%20(WHO)%20%7C%20Part%20I%20%7C%20Central%20Tendency%20Measures.ipynb)
-Understand the measures used to represent the central value of a dataset:
+
+Understand the measures used to represent the central value of a dataset
 - **Mean**: Arithmetic average of the data.
 - **Median**: Middle value when data is ordered.
 - **Mode**: Most frequently occurring value(s).
@@ -13,6 +14,7 @@ Understand the measures used to represent the central value of a dataset:
 ---
 
 ### 2. [Probability Distributions](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Statistical%20Analysis%20Part%20II%20-%20Probability%20Distributions.ipynb)
+
 Learn about discrete and continuous probability distributions.  
 
 #### 2.1 Discrete Probability Distributions:
@@ -29,7 +31,8 @@ Learn about discrete and continuous probability distributions.
 
 ---
 
-### 3. [Correlation & Association](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Life%20Expectancy%20(WHO)%20%7C%20Part%20III%20%7C%20Correlation%20%26%20Association.ipynb)
+### 3. [Correlation & Association (https://github.com/HanifaElahi/StatisticalAnalysis/blob/main/Life%20Expectancy%20(WHO)%20%7C%20Part%20III%20%7C%20Correlation%20%26%20Association.ipynb)
+
 Explore the relationships between variables through correlation and association techniques.  
 
 #### 3.1 Correlation:
@@ -44,6 +47,7 @@ Explore the relationships between variables through correlation and association 
 ---
 
 ### 4. [Hypothesis Testing](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Statistical-Analysis%20Part%20IV%20-%20Hypothesis%20Testing.ipynb)
+
 Apply statistical hypothesis testing using parametric and non-parametric methods.  
 
 #### 4.1 Parametric Tests:
@@ -58,6 +62,25 @@ Apply statistical hypothesis testing using parametric and non-parametric methods
 - **Wilcoxon Signed-Rank Test**: Analyze paired sample ranks.
 - **Kruskal-Wallis Test**: Compare ranks across multiple groups.
 
+---
+
+### 5.[Sampling Techniques](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Statistical%20Analysis%20Part%20V%20-%20Sampling%20Techniques.ipynb)
+   
+Learn various sampling methods used in data collection and analysis.
+
+   5.1 **Probability Sampling:**
+   - Simple Random Sampling
+   - Systematic Sampling
+   - Stratified Sampling
+   - Cluster Sampling
+
+   5.2 **Non-Probability Sampling:**
+   - Convenience Sampling
+   - Snowball Sampling
+   - Voluntary Response Sampling
+   - Quota Sampling
+   - Purposive Sampling
+  
 ---
 
 ## How to Use
