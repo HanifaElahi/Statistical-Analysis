@@ -31,7 +31,7 @@ Learn about discrete and continuous probability distributions.
 
 ---
 
-### 3. [Correlation & Association (https://github.com/HanifaElahi/StatisticalAnalysis/blob/main/Life%20Expectancy%20(WHO)%20%7C%20Part%20III%20%7C%20Correlation%20%26%20Association.ipynb)
+### 3. [Correlation & Association](https://github.com/HanifaElahi/StatisticalAnalysis/blob/main/Life%20Expectancy%20(WHO)%20%7C%20Part%20III%20%7C%20Correlation%20%26%20Association.ipynb)
 
 Explore the relationships between variables through correlation and association techniques.  
 
@@ -64,7 +64,7 @@ Apply statistical hypothesis testing using parametric and non-parametric methods
 
 ---
 
-### 5.[Sampling Techniques](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Statistical%20Analysis%20Part%20V%20-%20Sampling%20Techniques.ipynb)
+### 5. [Sampling Techniques](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Statistical%20Analysis%20Part%20V%20-%20Sampling%20Techniques.ipynb)
    
 Learn various sampling methods used in data collection and analysis.
 
