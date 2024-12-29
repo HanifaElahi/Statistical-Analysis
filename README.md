@@ -1,6 +1,6 @@
 # Statistical Analysis
 
-This repository provides a structured exploration of statistical analysis concepts and methods. It covers a variety of statistical techniques, from basic central tendency measures to advanced hypothesis testing, implemented in Jupyter Notebooks.  
+This repository provides a structured exploration of statistical analysis concepts and methods. It covers a variety of statistical techniques, from basic measures of central tendency and dispersion to advanced hypothesis testing, implemented in Jupyter Notebooks.  
 
 [Statistics Introduction](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Statistics.md)
 
@@ -8,7 +8,7 @@ This repository provides a structured exploration of statistical analysis concep
 
 ## Table of Contents
 
-1. [Central Tendency Measures](#1-central-tendency-measures)
+1. [Descriptive Statistics](#1-descriptive-statistics)
 2. [Probability Distributions](#2-probability-distributions)
 3. [Correlation & Association](#3-correlation--association)
 4. [Hypothesis Testing](#4-hypothesis-testing)
@@ -17,14 +17,27 @@ This repository provides a structured exploration of statistical analysis concep
 
 ---
 
-### 1. Central Tendency Measures
+### 1. Descriptive Statistics
 
-Understand the measures used to represent the central value of a dataset.
+Understand the measures used to describe and summarize datasets. 
+
+#### Central Tendency:
 - **Mean**: Arithmetic average of the data.
 - **Median**: Middle value when data is ordered.
 - **Mode**: Most frequently occurring value(s).
 
-[Explore the Notebook](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Life%20Expectancy%20(WHO)%20%7C%20Part%20I%20%7C%20Central%20Tendency%20Measures.ipynb)
+#### Dispersion:
+- **Range**: Difference between the maximum and minimum values.
+- **Variance**: Average of the squared differences from the mean.
+- **Standard Deviation**: Square root of the variance, indicating data spread.
+- **Interquartile Range (IQR)**: Range of the middle 50% of the data.
+- **Quartiles**: Values dividing the data into quarters.
+
+#### Shape of Distribution:
+- **Skewness**: Measure of asymmetry in the distribution.
+- **Kurtosis**: Measure of the "tailedness" of the distribution.
+
+[Explore the Notebook]()
 
 ---
 
