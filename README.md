@@ -37,7 +37,7 @@ Understand the measures used to describe and summarize datasets.
 - **Skewness**: Measure of asymmetry in the distribution.
 - **Kurtosis**: Measure of the "tailedness" of the distribution.
 
-[Explore the Notebook]()
+[Explore the Notebook](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Life%20Expectancy%20(WHO)%20%7C%20Part%20I%20%7C%20Descriptive%20and%20Summary%20Statistics.ipynb)
 
 ---
 
@@ -74,7 +74,7 @@ Explore the relationships between variables through correlation and association 
 - **Cross-Tabulation**: Summarizes relationships between categorical data.
 - **Cramér's V**: Quantifies association strength for categorical variables.
 
-[Explore the Notebook](https://github.com/HanifaElahi/StatisticalAnalysis/blob/main/Life%20Expectancy%20(WHO)%20%7C%20Part%20III%20%7C%20Correlation%20%26%20Association.ipynb)
+[Explore the Notebook](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Life%20Expectancy%20(WHO)%20%7C%20Part%20III%20%7C%20Correlation%20%26%20Association.ipynb)
 
 ---
 
@@ -94,7 +94,7 @@ Apply statistical hypothesis testing using parametric and non-parametric methods
 - **Wilcoxon Signed-Rank Test**: Analyze paired sample ranks.
 - **Kruskal-Wallis Test**: Compare ranks across multiple groups.
 
-[Explore the Notebook](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Statistical-Analysis%20Part%20IV%20-%20Hypothesis%20Testing.ipynb)
+[Explore the Notebook](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Statistical%20Analysis%20Part%20IV%20-%20Hypothesis%20Testing.ipynb)
 
 ---
 
