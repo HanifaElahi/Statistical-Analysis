@@ -13,7 +13,8 @@ This repository provides a structured exploration of statistical analysis concep
 3. [Correlation & Association](#3-correlation--association)
 4. [Hypothesis Testing](#4-hypothesis-testing)
 5. [Sampling Techniques](#5-sampling-techniques)
-6. [How to Use](#how-to-use)
+6. [Estimation Techniques](#6-estimation-techniques)
+7. [How to Use](#how-to-use)
 
 ---
 
@@ -118,6 +119,22 @@ Learn various sampling methods used in data collection and analysis.
 [Explore the Notebook](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Statistical%20Analysis%20Part%20V%20-%20Sampling%20Techniques.ipynb)
 
 ---
+
+### 6. Estimation Techniques
+
+Discover methods to estimate population parameters based on sample data.
+
+Techniques:
+
+- **Point Estimation:** Calculate single-value estimates (e.g., mean, variance).
+- **Interval Estimation:** Construct confidence intervals for parameters.
+- **Bayesian Estimation:** Combine prior beliefs with observed data for posterior probabilities.
+- **Monte Carlo Estimation:** Use random sampling to approximate values (e.g., π).
+
+[Explore the Notebook](https://github.com/HanifaElahi/Statistical-Analysis/blob/main/Statistical%20Analysis%20Part%20VI%20-%20Estimation%20Techniques.ipynb)
+
+---
+
 
 ### How to Use
 
